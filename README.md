@@ -1,6 +1,8 @@
-# 💗✨ Práctica 7 ✨💗
+<h1 align="center" style="color:#e8a0bf;">🌸✨ Práctica 7 ✨🌸</h1>
 
-## 🌸 Modelado de Sistemas Electromecánicos 🌸
+<h2 align="center" style="color:#b8a9c9;">📜 Modelado de Sistemas electromagneticos. 📜</h2>
+
+
 
 <p align="center">
   <img src="https://i.pinimg.com/originals/b2/df/41/b2df419e9f985cd5ca587505028899b4.gif" width="500"/>
@@ -13,8 +15,8 @@
 🌷 **Nombre:** Valeria Sinai Lara Rojas
 📚 **Práctica:** 7
 ⚡ **Tema:** Modelado de Sistemas Electromecánicos.
-✨**Profesor:** Jairo Cain Sanchez. 
-💖**Materia:** SEM MODELADO Y SIMULACION 
+🎓**Profesor:** Jairo Cain Sanchez. 
+📖**Materia:** SEM MODELADO Y SIMULACION 
 
 ---
 
@@ -35,4 +37,7 @@ El objetivo es representar matemáticamente el sistema Motor de corriente contin
 
 <p align="center">
   ✨ <img src="https://i.pinimg.com/originals/9d/53/2c/9d532c5a410d66602e992d6ba81898b7.gif" width="500"/> 💖
+</p>
+<p align="center">
+  <em style="color:#bfa6c9;">“He is half my soul, as the poet says.”</em>
 </p>
