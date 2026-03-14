@@ -1,43 +1,53 @@
-<h1 align="center" style="color:#e8a0bf;">🌸✨ Práctica 7 ✨🌸</h1>
+<p align="center">
 
-<h2 align="center" style="color:#b8a9c9;">📜 Modelado de Sistemas electromagneticos. 📜</h2>
+# 🍑🌿 **PRÁCTICA 7** 🌿🍑
 
+### *Modelado de Sistemas Electromecánicos*
 
+</p>
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b2/df/41/b2df419e9f985cd5ca587505028899b4.gif" width="500"/>
+
+![Práctica](https://img.shields.io/badge/Práctica-7-ffd6c9?style=for-the-badge)
+![Materia](https://img.shields.io/badge/Materia-Modelado%20y%20Simulación-f7e7ce?style=for-the-badge)
+![Herramientas](https://img.shields.io/badge/Herramientas-MATLAB%20%7C%20Simulink%20%7C%20Simscape-d8e2dc?style=for-the-badge)
+
+</p>
+<p align="center"> 
+  <img src="https://i.pinimg.com/originals/26/51/0d/26510d0fad0ed2897bf83f9d0aeea900.gif" width="800"/> 
+
+
+## 🌿 Información
+🍃 Nombre: Valeria Sinai Lara Rojas
+📚 Práctica: 7
+⚙️ Tema: Modelado de Sistemas Electromecánicos
+🎓 Profesor: Jairo Caín Sánchez
+📖 Materia: Seminario de Problemas de Modelado y Simulación de Sistemas
+🤖 Carrera: Ingeniería Robótica
+---
+
+## 🍑 Introducción
+
+En esta práctica se realiza el **modelado de un sistema electromecánico**, empleando herramientas de simulación como **MATLAB, Simulink y Simscape**.
+
+El objetivo es representar matemáticamente el sistema para analizar su comportamiento dinámico mediante simulaciones. A partir del modelo obtenido se estudia la respuesta del sistema frente a distintas condiciones de entrada, permitiendo observar variables importantes como **posición, velocidad y evolución temporal del sistema**.
+
+---
+
+## 🌸 Resultados
+
+A partir de la simulación del modelo se obtienen gráficas que permiten analizar el comportamiento dinámico del sistema.
+
+Entre los principales resultados se encuentran:
+
+* Comportamiento de la **posición del sistema**
+* Variación de la **velocidad a lo largo del tiempo**
+* **Respuesta temporal** del sistema ante las condiciones de entrada
+
+<p align="center"> <img src="https://i.pinimg.com/originals/f6/28/12/f628127ccfbacd173ae1f95ace7a33c7.gif" width="800"/> </p>
+
+ 
+
 </p>
 
 ---
-
-### 💕 Información de la práctica
-
-🌷 **Nombre:** Valeria Sinai Lara Rojas
-📚 **Práctica:** 7
-⚡ **Tema:** Modelado de Sistemas Electromecánicos.
-🎓**Profesor:** Jairo Cain Sanchez. 
-📖**Materia:** SEM MODELADO Y SIMULACION 
-
----
-
-### ✨ Descripción
-
-Esta práctica consiste en el **modelado y simulación de un sistema electromecánico**, utilizando Matlab, Simulink y Simscape..
-
-El objetivo es representar matemáticamente el sistema Motor de corriente continua y observar su respuesta mediante simulaciones, las cuales representan la velocidad y posición del motor.
----
-
-### 🌸 Objetivo
-
-💗 Comprender el comportamiento de sistemas electromecánicos
-💗 Aplicar modelos matemáticos a sistemas físicos
-💗 Analizar la respuesta del sistema mediante simulación
-
----
-
-<p align="center">
-  ✨ <img src="https://i.pinimg.com/originals/9d/53/2c/9d532c5a410d66602e992d6ba81898b7.gif" width="500"/> 💖
-</p>
-<p align="center">
-  <em style="color:#bfa6c9;">“He is half my soul, as the poet says.”</em>
-</p>
