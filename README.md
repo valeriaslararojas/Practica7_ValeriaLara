@@ -16,6 +16,9 @@
 <p align="center"> 
   <img src="https://i.pinimg.com/originals/26/51/0d/26510d0fad0ed2897bf83f9d0aeea900.gif" width="800"/> 
 
+<p align="center">
+  <em style="color:#bfa6c9;">“Is it better to speak or to die?.”</em>
+</p>
 
 ## 🌿 Información
 🍃 Nombre: Valeria Sinai Lara Rojas
