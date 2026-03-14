@@ -3,7 +3,7 @@
 ## 🌸 Modelado de Sistemas Electromecánicos 🌸
 
 <p align="center">
-  <img src="https://i.pinimg.com/originals/b2/df/41/b2df419e9f985cd5ca587505028899b4.gif" width="200"/>
+  <img src="https://i.pinimg.com/originals/b2/df/41/b2df419e9f985cd5ca587505028899b4.gif" width="500"/>
 </p>
 
 ---
@@ -34,5 +34,5 @@ El objetivo es representar matemáticamente el sistema Motor de corriente contin
 ---
 
 <p align="center">
-  ✨ <img src="https://i.pinimg.com/originals/9d/53/2c/9d532c5a410d66602e992d6ba81898b7.gif" width="200"/> 💖
+  ✨ <img src="https://i.pinimg.com/originals/9d/53/2c/9d532c5a410d66602e992d6ba81898b7.gif" width="500"/> 💖
 </p>
